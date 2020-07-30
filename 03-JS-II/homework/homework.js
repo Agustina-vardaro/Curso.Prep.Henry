@@ -75,17 +75,6 @@ function esPrimo(numero) {
   // Nota: Los números 0 y 1 NO son considerados números primos
   // Tu código:
 
- /*if(numero<2)
-  return false;
-if(numero===2)
-  return true;
-for(var i=2;i<numero;i++)
-{
-  if(numero%i===0)
-    return false;
-}
-return true;*/
-
   var i;
 
   if (numero<=1)

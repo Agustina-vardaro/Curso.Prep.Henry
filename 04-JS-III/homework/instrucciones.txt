@@ -1,0 +1,3 @@
+
+ARRAYS: Un array es una lista de elemetos. Los elemtos pueden ser: números, strings, null, valores booleanos, undefined, otro array, una funcion y objetos.
+
