@@ -1,0 +1,12 @@
+
+OBJETOS: es una estructura de datos donde tengo propiedades que estan asociadas a un valor (cualquier tipo de dato).
+
+PROPIEDADES: son el identificador de los valores (cualquier tipo de dato) que vamos a guardar, se separan por coma. Los nombres de las propiedades son únicos en un objeto.
+
+MÉTODOS: Se llama así a las funciones guardadas en un objeto.
+
+BUCLE FOR-IN: Recorre cada propiedad del objeto y finaliza cuando se haya iterado todas las propiedades. Es similar a como se itera en un ciclo for con arrays, con la diferencia que las propiedades no tienen un indice numérico.
+
+NOTACIÓN DE PUNTOS: Llama al nombre del objeto. Ejemplo: NombreDeObjeto.NombreDeLaPropiedad
+
+NOTACIÓN DE COCHETES: Se usa una variabla que apunta a una cadena o número, va entre comillas. 
