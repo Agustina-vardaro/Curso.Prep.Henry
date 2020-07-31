@@ -24,7 +24,7 @@ function saludo(idioma) {
   if (idioma==='ingles')
       return 'Hello!';
   if (idioma != 'aleman' && idioma!='ingles' && idioma!='mandarin')
-      return 'Hola!';
+      return 'Hola!'
 }
 
 function esDiezOCinco(numero) {
