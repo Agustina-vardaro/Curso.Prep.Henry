@@ -1,0 +1,4 @@
+
+PROTOTYPE: Son para compartir funciones. Una clase estable un método una única vez, y con los prototypes, se puede tener acceso a cada objeto de esa clase.
+
+ CONSTRUCTORES (DE CLASE): Se da un nombre que empieza con la primer letra en mayúscula y a traves de new, se instanciará. Esto crea y devuelve un objeto automáticamente.
