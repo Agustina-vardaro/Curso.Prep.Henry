@@ -1,0 +1,2 @@
+
+CALLBACK: Es pasar una función como argumento a otra. Pueden llamarse en cualquier momento y pasar argumentos dentro de la función.
